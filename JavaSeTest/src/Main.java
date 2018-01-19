@@ -2,7 +2,8 @@
 public class Main {
 	
 	public static void main(String[] args) {
-		System.out.println("一个简单的输出");
+		String a="这是一个a";
+		int b =33 ;
 	}
 
 }
