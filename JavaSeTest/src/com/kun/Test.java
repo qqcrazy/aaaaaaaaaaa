@@ -14,11 +14,8 @@ public class Test {
 	public void haha(){
 		
 		
-		System.out.println(343);
-		System.out.println(343);
-		System.out.println(343);
-		System.out.println(343);
-		System.out.println(343);
+		System.out.println(1111111);
+
 	}
 
 }
